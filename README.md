@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/agarwalmohit43/agarwalmohit43/blob/main/devcard.svg" width="400" alt="Mohit Kumar's Dev Card"/></a>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=agarwalmohit43&show_icons=true&theme=onedark" alt="stats"/>
 
-<img align="center" alt="statsCode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalmohit43&layout=compact" /></div>
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agarwalmohit43&show_icons=true&theme=onedark" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalmohit43&layout=compact" />
+</a>
