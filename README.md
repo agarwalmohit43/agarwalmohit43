@@ -1,19 +1,19 @@
-<!--### Hi there 👋-->
+### Hi there 👋
 
 <!--
 **agarwalmohit43/agarwalmohit43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+-->
+- 🔭 I’m currently working on portfolio template
+- 🌱 I’m currently updating my technical skills
+- 👯 I’m looking to collaborate on open-source projects
+<!--- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...  -->
+
 <!--<a href="https://app.daily.dev/agarwalmohit43"><img src="https://api.daily.dev/devcards/9f1592edee1e4197b440ffae2e9b390f.png?r=j5e" width="400" alt="Mohit Kumar's Dev Card"/></a>-->
 
 
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agarwalmohit43&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalmohit43&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
