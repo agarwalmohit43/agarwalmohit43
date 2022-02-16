@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/agarwalmohit43/agarwalmohit43/blob/main/devcard.svg" width="400" alt="Mohit Kumar's Dev Card"/></a>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=agarwalmohit43&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=agarwalmohit43&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalmohit43&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
