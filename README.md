@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">Software Engineer with over 5+ years of IT experience and passion for software development, learning new technologies as well as designing software systems using agile software development in JavaScript, NodeJs for Constrained Devices, Web and Cross Stack Functionality. Expertise in React JS to develop the SPA. Extensively used Git for version control. Holds good experience with CSR and SSR.</h3>
+<h3 align="center">Software Engineer with over 7+ years of IT experience and passion for software development, learning new technologies as well as designing software systems using agile software development in JavaScript, NodeJs for Constrained Devices, Web and Cross Stack Functionality. Expertise in React JS to develop the SPA. Extensively used Git for version control. Holds good experience with CSR and SSR.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwalmohit43&label=Profile%20views&color=0e75b6&style=flat" alt="agarwalmohit43" /> </p>
 
